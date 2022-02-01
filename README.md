@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Memories Project using MERN
+Memories Project is a Full Stack ( MongoDB - Express JS - React JS - Node JS ) MERN Project Website that uses Material-UI as its front end UI framework, Front-end Hosted in Netlify and Back-end hosted in Heroku. The file structure of this project is best suited for medium to large scale development. The front end project structure is divided into actions, api, components, constants, images, reducers, and lastly is the App and Index JS
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
